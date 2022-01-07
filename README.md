@@ -7,9 +7,5 @@ One merely charges a customer.  The other, creates a customer in stripe (that yo
 
 I hope you will find these examples useful for integrating your own Cold Fusion projects into Stripe.
 
-If this saves you some time, please use that time to do something nice for someone.
-
-All the best, happy coding.  
-
 cheers,
 alan
