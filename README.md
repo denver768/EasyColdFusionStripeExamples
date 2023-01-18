@@ -1,4 +1,4 @@
-# EasyColdFusionStripeExamples
+# Easy ColdFusion Stripe Examples
 Super simple Cold Fusion examples for integrating into Stripe
 
 Since there is a lack of Cold Fusion documentation on the Stripe.com site, here you will find 2 simple examples to use for integrating Cold Fusion into Stripe.  
